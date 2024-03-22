@@ -8,7 +8,10 @@
 
 # PARSING JSON
 
-    Parsing JSON adalah proses menguraikan atau mengekstrak data yang tersimpan dalam format JSON (JavaScript Object Notation). JSON adalah format yang umum digunakan untuk pertukaran data di antara aplikasi karena kesederhanaan dan keterbacaannya. Proses parsing JSON melibatkan membaca data JSON dan mengonversinya menjadi struktur data yang dapat digunakan dalam pemrograman, seperti objek dalam bahasa pemrograman seperti JavaScript, Python, Java, dan lainnya.
+    Parsing JSON adalah proses menguraikan atau mengekstrak data yang tersimpan dalam format JSON (JavaScript Object Notation).
+    JSON adalah format yang umum digunakan untuk pertukaran data di antara aplikasi karena kesederhanaan dan keterbacaannya.
+    Proses parsing JSON melibatkan membaca data JSON dan mengonversinya menjadi struktur data yang dapat digunakan dalam pemrograman,
+    seperti objek dalam bahasa pemrograman seperti JavaScript, Python, Java, dan lainnya.
 
 Proses parsing JSON biasanya melibatkan langkah-langkah berikut:
 
@@ -32,4 +35,4 @@ Pastikan PC kita sudah terinstall aplikasi `Android Studio` untuk memulai Projec
 
 ## Tutorial Project Parsing Json menggunakan Android Studio
 
-###[LINK-YOUTUBE-TUTORIAL](https://youtu.be/lgXpfP3k1BM)
+### [LINK-YOUTUBE-TUTORIAL](https://youtu.be/lgXpfP3k1BM)
